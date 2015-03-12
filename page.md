@@ -3,7 +3,7 @@
 I'm just starting as a developer of many things (and am usually super busy).
 
 This is my page. 
--All due respect goes to [Adam Bell](https://github.com/b3ll) (a.k.a. b3ll)
+-All due respect goes to [Adam Bell](https://github.com/b3ll) (a.k.a. [b3ll](https://www.youtube.com/watch?v=tSYLMxj63mI))
 
 # Look at all this Cool stuff
 
