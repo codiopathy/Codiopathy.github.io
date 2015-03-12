@@ -1,8 +1,9 @@
-# Cool Introduction
+# Hello Netizen! I think (therefore?) I exist
 
-Add stuff to page.md, done.
+I'm just starting as a developer of many things (and am usually super busy).
 
-Preview [here](http://b3ll.github.io/BaseGitHubPage/)
+This is my page. 
+-All due respect goes to Adam Bell [b3ll](https://github.com/b3ll)
 
 It's hella cool.
 
