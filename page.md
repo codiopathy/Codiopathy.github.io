@@ -1,4 +1,7 @@
-#Chris Bayley
+<!--#Chris Bayley-->
+GitHub User: Codiopathy
+<!--I figured out how to comment-->
+
 
 # Look at all this Cool stuff
 
