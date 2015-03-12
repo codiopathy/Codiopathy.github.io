@@ -1,7 +1,9 @@
-<!--#Chris Bayley-->
-GitHub User: Codiopathy
-<!--I figured out how to comment-->
+# Hello Netizen! I think (therefore?) I exist
 
+I'm just starting as a developer of many things (and am usually super busy).
+
+This is my page. 
+-All due respect goes to [Adam Bell](https://github.com/b3ll) (a.k.a. b3ll)
 
 # Look at all this Cool stuff
 
